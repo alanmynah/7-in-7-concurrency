@@ -3,6 +3,9 @@ using System.Threading;
 
 namespace csharp
 {
+    /// <summary>
+    /// Example 1
+    /// </summary>
     public static class HelloWorld
     {
         public static void RunExample()
