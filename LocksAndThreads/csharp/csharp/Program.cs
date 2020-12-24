@@ -2,3 +2,4 @@
 
 HelloWorld.RunExample();
 Counting.RunExample();
+Puzzle.RunExample();
